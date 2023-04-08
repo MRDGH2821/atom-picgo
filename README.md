@@ -1,6 +1,6 @@
 # NOTE
 
-Atom Editor is being [sunset](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub devs. And as such this plugin won't be recieving any updated.
+Atom Editor is being [sunset](https://github.blog/2022-06-08-sunsetting-atom/) by GitHub devs. And as such this plugin won't be recieving any updates.
 I know it was slow & buggy, and nearly freezed atom while using the key combination. While making this extension I looked into source code of many clipboard based extensions & copy pasted it together to bring it into working form. 
 It was too much of an hacky solution considering that I still didn't understand much of Atom Editor's API.
 
